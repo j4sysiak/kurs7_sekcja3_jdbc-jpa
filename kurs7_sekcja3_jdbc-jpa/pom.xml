@@ -12,11 +12,11 @@
 		<relativePath />
 	</parent>
 
-	<groupId>pl.jaceksysiak.springboot.basics</groupId>
-	<artifactId>kurs7_sekcja2_step3_springboot_basics_in_10_steps</artifactId>
+	<groupId>pl.jaceksysiak.springboot.database</groupId>
+	<artifactId>kurs7_sekcja3_jdbc-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kurs7_sekcja2_step3_springboot_basics_in_10_steps</name>
-	<description>Demo project for Spring Boot</description>
+	<name>kurs7_sekcja3_jdbc-jpa</name>
+	<description>kurs7_sekcja3_jdbc-jpa</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

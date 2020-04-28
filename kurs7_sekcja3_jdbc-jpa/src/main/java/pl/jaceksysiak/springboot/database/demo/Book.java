@@ -1,4 +1,4 @@
-package pl.jaceksysiak.springboot.basics.demo;
+package pl.jaceksysiak.springboot.database.demo;
 
 public class Book {
 	
