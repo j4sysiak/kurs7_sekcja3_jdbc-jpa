@@ -32,7 +32,9 @@ public class PersonJbdcDao {
 	}
 
 	public List<Person> findAll() {
-		//return jdbcTemplate.query("select * from person", new BeanPropertyRowMapper(Person.class));
+		//1. sposób  return jdbcTemplate.query("select * from person", new BeanPropertyRowMapper(Person.class));
+		
+		//2. sposób
 		return jdbcTemplate.query("select * from person", new PersonRowMapper());
 	}
 	
